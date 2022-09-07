@@ -23,7 +23,7 @@ Learn how to set up your main-page HTML template for every site you build
 Some things to think about:
 
 - You're creating a homepage file from scratch. What does it need to be called?
-- 
+- Your HTML tags and content will be checked against the expected final product from the video. Do they match?
 
 ---
 
